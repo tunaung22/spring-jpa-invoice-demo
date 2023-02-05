@@ -31,3 +31,26 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+
+
+.Trash-*
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+*.icloud
+.Trashes
+.fseventsd
+.Spotlight-V100
+.DS_Store
